@@ -1,0 +1,85 @@
+1. STATUS EFFECTS
+Russian translations change original adjectives to nouns. This helps to apply it to both female/male characters, but
+
+English (Russian) - Ukrainian
+
+Acid (Кислота) - Кислота
+Atrophy (Истощение) - Виснаження
+Bleed Fire (Поджог крови) - Палаюча Кров
+Bleeding (Кровотечение) - Кровотеча
+Blinded (Слепота) - Осліплений
+Burning (Горение) - Горіння
+Charmed (Очарование) - Зачарований 
+Challenged (Брошен вызов) - Кинуто Виклик
+Challenge Won (Вызов пройден) - Виклик Пройдено
+Challenge Lost (Вызов проигран) - Виклик Програно
+Chicken Form (Облик курицы) - Зовнішність Курки
+Cow Form (Облик коровы) - Зовнішність Корови
+Chilled (Охлаждение) - Охолоджений
+Crawling Infestation (???) - Повзуча Зараза
+Crippled (Увечье) - Покалічений
+Cursed (Проклятие) - Проклятий
+Dead (Смерть) - Мертвий
+Deaf (Глухота) - Глухий
+Deathfog Influence (???) - Вплив Туману Смерті
+Decaying (Порча) - Гниє
+Decomposing (Разложение) - Розкладається
+Disarmed (???) - Роззброєний
+Diseased (Болезнь) - Хворий
+Drunk (Опьянение) - П'яний
+Encumbered (Перегрузка (вес)) - Обтяжений
+Entangled (Путы) - Оплутаний
+Flaming Crescendo (Огненное извержение) - Палаюче Крещендо
+Flanked (Окружение) - Оточений
+Frightened (Ужас) - Переляканий
+Frozen (Замерзший) - Заморожений
+Galvanised () - Гальванізований
+Grounded () -
+Guardian Angel () -
+Hellfire () -
+Infected () -
+Infested () -
+Knocked Down () -
+Madness () -
+Marked () -
+Muted () -
+Necrofire () -
+Nullified Resistances () -
+Petrified () -
+Plague () -
+Poisoned () -
+Possessed () -
+Remorse () -
+Ruptured Tendons () -
+Shocked () -
+Shackles of Pain () -
+Silenced () -
+Sleeping () -
+Slowed () -
+Smelly () -
+Soul Shackled () -
+Source-Muted () -
+Spirit Bond () -
+Spirit Vision () -
+Stunned () -
+Suffocating () -
+Taunted () -
+Terrified () -
+Tied up () -
+Voidwoken () -
+Warm () -
+Weak () -
+Web () -
+Wet () -
+Whiplash () -
+
+2. Key items
+Purging wand (Жезл избавления) - Жезл Очищення
+Shrieker (Вопящий) - Крикун
+Voidwoken (Исчадие) - Виродок, Виродок Порожнечі
+
+The Hollow Marshes (Гулкие Топи) - Безлюдні Болота́ (Трясови́ни)
+Reaper's Eye (Глаз Жнеца) - Око Женця
+Path of Blood (Путь Крови) - Шлях Крові
+
+Scroll of Atonement (Свиток Искупления) - Сувій Каяття
