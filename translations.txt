@@ -77,9 +77,14 @@ Whiplash () -
 Purging wand (Жезл избавления) - Жезл Очищення
 Shrieker (Вопящий) - Крикун
 Voidwoken (Исчадие) - Виродок, Виродок Порожнечі
+Scroll of Atonement (Свиток Искупления) - Сувій Каяття
 
-The Hollow Marshes (Гулкие Топи) - Безлюдні Болота́ (Трясови́ни)
+The Hollow Marshes (Гулкие Топи) - Безлюдні Трясови́ни
 Reaper's Eye (Глаз Жнеца) - Око Женця
 Path of Blood (Путь Крови) - Шлях Крові
+The Hall of Echoes (Чертоги Эха) - Чертоги Відлуння
+Council of Seven (Совет Семи) - Нарада Семи (Сімох)
+Nameless Island (Безымянный остров) - Безіменний острів
+Well of Ascension (Ключ Вознесения) - Джерело Вознесіння
 
-Scroll of Atonement (Свиток Искупления) - Сувій Каяття
+Rhalic (Ралик) - Ралік
